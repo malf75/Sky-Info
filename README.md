@@ -23,7 +23,7 @@
 
 ---
 
-## 📦 Instalação
+## 📦 Sem docker
 
 ```bash
 # Clone o repositório
@@ -36,3 +36,11 @@ source venv/bin/activate  # Windows: .\venv\Scripts\activate
 
 # Instale as dependências
 pip install -r requirements.txt
+```
+
+---
+
+## 🐳 Com docker
+
+```bash
+docker-compose up --build
