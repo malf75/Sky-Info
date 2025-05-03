@@ -36,6 +36,12 @@ source venv/bin/activate  # Windows: .\venv\Scripts\activate
 
 # Instale as dependências
 pip install -r requirements.txt
+
+# Rode a aplicação
+fastapi run main.py
+
+# Acesse a documentação
+http://0.0.0.0:8000
 ```
 
 ---
@@ -43,4 +49,8 @@ pip install -r requirements.txt
 ## 🐳 Com docker
 
 ```bash
+# Monte o container
 docker-compose up --build
+
+# Acesse a documentação
+http://0.0.0.0:8000
