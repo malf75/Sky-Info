@@ -18,8 +18,9 @@
 - **Python 3.11+**
 - **FastAPI**
 - **Uvicorn**
-- **Astral** (para cálculos solares/lunares)
-- **Geopy** ou similar (para geocodificação de cidades)
+- **Astral**
+- **Geopy**
+- **TimezoneFinder**
 
 ---
 
