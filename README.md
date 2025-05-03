@@ -1,6 +1,6 @@
 # ☀️🌙 Sky Info API
 
-**Sky Info** é uma API RESTful desenvolvida com **FastAPI** que fornece informações astronômicas sobre o Sol e a Lua com base em uma **data** e uma **cidade**. Ideal para fins educacionais, astronômicos ou para aplicações que dependem de eventos celestes.
+**Sky Info** é uma API RESTful desenvolvida com **FastAPI** que fornece informações astronômicas sobre o Sol e a Lua com base em uma **data** e uma **cidade**.
 
 ---
 
