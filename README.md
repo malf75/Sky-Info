@@ -9,7 +9,7 @@
 - 📍 Entrada por **nome da cidade** e **data**.
 - 🌙 `/moon`: retorna fase da Lua, horários de nascer e pôr da Lua.
 - ☀️ `/sun`: retorna horários do nascer e pôr do Sol.
-- 🌐 Respostas em formato padronizado UTC.
+- 🌐 Respostas no timezone da cidade escolhida.
 
 ---
 
