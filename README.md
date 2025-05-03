@@ -50,6 +50,10 @@ http://0.0.0.0:8000
 ## 🐳 Com docker
 
 ```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/sky-info.git
+cd sky-info
+
 # Monte o container
 docker-compose up --build
 
